@@ -1,0 +1,10 @@
+.distortion{
+    width: 640px;
+    height: 950px;
+}
+
+.landing{
+    display:flex;
+    justify-content: space-round;
+    height: 100vh;
+}
