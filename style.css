@@ -1,10 +1,22 @@
 .distortion{
-    width: 640px;
-    height: 950px;
+    width: 540px;
+    height: 600px;
+    align-self: flex-end;
 }
 
 .landing{
     display:flex;
     justify-content: space-round;
     height: 100vh;
+}
+.intro{
+    align-self:center;
+    width:50%;
+}
+.intro h1{
+    font-size: 50px;
+}
+
+.intro p{
+    font-size: 25px;
 }
